@@ -1,6 +1,8 @@
 # Auralis
 Auralis 🎵🌙
 
+![Alt](https://repobeats.axiom.co/api/embed/ad7e52478e5bff1604d7ff33feb2035c65b8015a.svg "Repobeats analytics image")
+
 Smarter Music Discovery Powered by AI and Machine Learning
 
 Auralis is a dark-themed, premium music streaming web app built with HTML, Tailwind CSS, Node.js, and Supabase. It uses Machine Learning to provide personalized playlists, smart recommendations, and curated music discovery, making it perfect for music lovers and tech enthusiasts alike.
